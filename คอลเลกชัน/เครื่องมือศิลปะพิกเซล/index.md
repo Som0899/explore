@@ -1,14 +1,4 @@
----
-items:
- - aseprite/aseprite/
- - piskelapp/piskel/
- - jvalen/pixel-art-react/
- - maierfelix/poxi/
- - gmattie/Data-Pixels/
- - vsmode/pixel8
- - kitao/pyxel
- - jackschaedler/goya
- - cloudhead/rx
+udhead/rx
  - Orama-Interactive/Pixelorama
  - LibreSprite/LibreSprite
  - lospec/pixel-editor
